@@ -16,7 +16,7 @@ This project is a fun PacMen game where you can add multiple PacMen to the scree
 
 * Clone the repository or download the source files
 ```bash
-git clone https://github.com/your-github-username/pacmen.git
+git clone https://github.com/agp19d/pacmen.git
 ```
 * No modifications needed to files/folders
 
@@ -30,9 +30,8 @@ If you encounter any issues or need assistance, please create an issue on the pr
 
 ## Authors
 
-Your Name  
-Your Contact Info (optional)  
-GitHub: [@your-github-username](https://github.com/your-github-username)
+Alejandro Garcia de Paredes  
+GitHub: [@agp19d](https://github.com/agp19d)
 
 ## Version History
 
